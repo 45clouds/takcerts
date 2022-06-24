@@ -1,0 +1,14 @@
+<MissionPackageManifest version="2">
+  <Configuration>
+    <Parameter name="name" value="_CN_ - TAK SERVER" />
+    <Parameter name="uid" value="_UID_" />
+    <Parameter name="onReceiveDelete" value="false"/>
+  </Configuration>
+  <Contents>
+    <Content zipEntry="_CN_.p12" ignore="false" />
+    <Content zipEntry="_CN_.pref" ignore="false" />
+    <Content zipEntry="osm.xml" ignore="false" />
+    <Content zipEntry="truststore-root.p12" ignore="false" />
+  </Contents>
+</MissionPackageManifest>
+
